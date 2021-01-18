@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Hi! I am 
+Hi! My name is ojevwe and I am a cybersecurity enthusiast. Follow me as I explore this interesting field.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+More information soon.
 
 ### Contact me
 
